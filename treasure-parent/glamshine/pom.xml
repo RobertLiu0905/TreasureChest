@@ -20,7 +20,7 @@
         <module>zookeeper</module>
         <module>tomcat</module>
         <module>quartz</module>
-        <module>sharding-jdbc</module>
+        <module>shardingsphere</module>
         <module>disruptor</module>
         <module>jdk</module>
         <module>guava</module>
