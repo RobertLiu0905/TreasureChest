@@ -26,6 +26,7 @@
         <module>guava</module>
         <module>rxjava</module>
         <module>websocket</module>
+        <module>elasticsearch</module>
     </modules>
 
 
